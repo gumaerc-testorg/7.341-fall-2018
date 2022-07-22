@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains a description of the midterm and final assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 7b2cd44f-a681-bf0b-b602-95c49f1743d1
 ---

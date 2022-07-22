@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 3a125cb7-7bd7-ecbd-2ae5-583855471475
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction to Biomaterials
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week1)
+{{% resource_link 79b674e7-378b-ce3a-4c79-f46c22e9c9df "See the Lecture Summary" "#week1" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ Introduction to Biomaterials
 
 Vaccine Delivery from Biodegradable Microspheres
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week2)
+{{% resource_link 79b674e7-378b-ce3a-4c79-f46c22e9c9df "See the Lecture Summary" "#week2" %}}
 
 
 {{< tdclose >}}
@@ -73,7 +78,7 @@ doi: 10.1016/j.ijpharm.2004.12.026
 
 Advanced Techniques for Improving Vaccine Efficacy
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week3)
+{{% resource_link 79b674e7-378b-ce3a-4c79-f46c22e9c9df "See the Lecture Summary" "#week3" %}}
 
 
 {{< tdclose >}}
@@ -99,7 +104,7 @@ doi: 10.1073/pnas.1600299113
 
 State-of-the-art Cancer Vaccines (Part 1)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week4)
+{{% resource_link 79b674e7-378b-ce3a-4c79-f46c22e9c9df "See the Lecture Summary" "#week4" %}}
 
 
 {{< tdclose >}}
@@ -118,7 +123,7 @@ doi: 10.1016/j.biomaterials.2016.05.008
 
 State-of-the-art Cancer Vaccines (Part 2)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week5)
+{{% resource_link 79b674e7-378b-ce3a-4c79-f46c22e9c9df "See the Lecture Summary" "#week5" %}}
 
 
 {{< tdclose >}}
@@ -137,7 +142,7 @@ doi: 10.1038/nbt.4181
 
 Diagnostic Tools for Infectious Diseases
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week6)
+{{% resource_link 79b674e7-378b-ce3a-4c79-f46c22e9c9df "See the Lecture Summary" "#week6" %}}
 
 
 {{< tdclose >}}
@@ -163,7 +168,7 @@ doi: 10.1002/smll.201202195
 
 Islet Cell Encapsulation for Diabetes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week7)
+{{% resource_link 79b674e7-378b-ce3a-4c79-f46c22e9c9df "See the Lecture Summary" "#week7" %}}
 
 
 {{< tdclose >}}
@@ -188,7 +193,7 @@ doi: 10.1038/nbt.3462
 
 Visit to [Sigilon Therapeutics](http://sigilon.com/)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week8)
+{{% resource_link 79b674e7-378b-ce3a-4c79-f46c22e9c9df "See the Lecture Summary" "#week8" %}}
 
 
 {{< tdclose >}}
@@ -206,7 +211,7 @@ Visit to [Sigilon Therapeutics](http://sigilon.com/)
 
 Tissue-instructive Scaffolds
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week9)
+{{% resource_link 79b674e7-378b-ce3a-4c79-f46c22e9c9df "See the Lecture Summary" "#week9" %}}
 
 
 {{< tdclose >}}
@@ -232,7 +237,7 @@ doi: 10.1016/j.actbio.2017.12.010
 
 Diagnostic Tools for Cancer
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week10)
+{{% resource_link 79b674e7-378b-ce3a-4c79-f46c22e9c9df "See the Lecture Summary" "#week10" %}}
 
 
 {{< tdclose >}}
@@ -258,7 +263,7 @@ doi: 10.1039/c7lc00038c
 
 Low-cost, Paper-based Diagnostic Tools
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week11)
+{{% resource_link 79b674e7-378b-ce3a-4c79-f46c22e9c9df "See the Lecture Summary" "#week11" %}}
 
 
 {{< tdclose >}}
@@ -284,7 +289,7 @@ doi: 10.1021/ac9007573
 
 Non-viral Delivery of Genetic Material for Gene Therapy and Cancer
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week12)
+{{% resource_link 79b674e7-378b-ce3a-4c79-f46c22e9c9df "See the Lecture Summary" "#week12" %}}
 
 
 {{< tdclose >}}
@@ -310,7 +315,7 @@ doi: 10.1021/acs.nanolett.6b03329
 
 Oral Presentations, Conclusion, and Closing Remarks
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week13)
+{{% resource_link 79b674e7-378b-ce3a-4c79-f46c22e9c9df "See the Lecture Summary" "#week13" %}}
 
 
 {{< tdclose >}}
