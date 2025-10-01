@@ -151,12 +151,12 @@ The first paper introduces the concept of cell encapsulation as a strategy to is
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Visit to [Sigilon Therapeutics](http://sigilon.com/)
+Visit to {{% resource_link "2cd1673a-c35c-4bd1-9ac5-ffce8f03f5cf" "Sigilon Therapeutics" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{< anchor "week8" >}}{{< /anchor >}}This session is dedicated to a visit to [Sigilon Therapeutics](http://sigilon.com/), a Cambridge-based biotechnology company that has developed a super-biocompatible chemistry (Afibromer™) that allows encapsulated cells to avoid a strong foreign body reaction and immune rejection that would otherwise cause them to die. Many patients can benefit from cell-based therapeutics, but fibrosis has presented a barrier to the success of encapsulated cell-based approaches. Using this material, Siglion is developing Living Therapeutics™, in which cells programmed to secrete therapeutic compounds are encapsulated in Afibromer and serve as long-term internal “drug factories” for disease correction. Sigilon’s technology provides a unique, controllable, and dose-adjustable approach to continuously deliver protein therapeutics.
+{{< anchor "week8" >}}{{< /anchor >}}This session is dedicated to a visit to {{% resource_link "2cd1673a-c35c-4bd1-9ac5-ffce8f03f5cf" "Sigilon Therapeutics" %}}, a Cambridge-based biotechnology company that has developed a super-biocompatible chemistry (Afibromer™) that allows encapsulated cells to avoid a strong foreign body reaction and immune rejection that would otherwise cause them to die. Many patients can benefit from cell-based therapeutics, but fibrosis has presented a barrier to the success of encapsulated cell-based approaches. Using this material, Siglion is developing Living Therapeutics™, in which cells programmed to secrete therapeutic compounds are encapsulated in Afibromer and serve as long-term internal “drug factories” for disease correction. Sigilon’s technology provides a unique, controllable, and dose-adjustable approach to continuously deliver protein therapeutics.
 
 The goal of this visit is to put the technology described in the second paper of Session 5 into a direct therapeutic and commercial context and indicate some differences between academic research and industrial development. This experience will include a tour of the lab and a presentation by a Sigilon employee describing the history of the technology, founding of the company, recent growth, product strategy, and regulatory hurdles to commercialization.  
 
