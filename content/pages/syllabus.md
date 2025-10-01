@@ -153,7 +153,7 @@ Written Assignment due
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Visit to [Sigilon Therapeutics](http://sigilon.com/)
+Visit to {{% resource_link "2cd1673a-c35c-4bd1-9ac5-ffce8f03f5cf" "Sigilon Therapeutics" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Field Trip
